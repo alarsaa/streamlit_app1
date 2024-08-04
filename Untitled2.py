@@ -68,8 +68,5 @@ interactive_combined_plot = interactive(
 interactive_combined_plot
 
 
-# In[ ]:
-
-
 
 
